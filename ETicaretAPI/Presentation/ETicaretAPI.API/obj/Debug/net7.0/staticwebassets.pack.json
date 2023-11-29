@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Masaüstü\\ETicaretSitesi\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\wwwroot\\resource\\files\\delete.png",
+      "PackagePath": "staticwebassets\\resource\\files\\delete.png"
+    },
+    {
+      "Id": "E:\\Masaüstü\\ETicaretSitesi\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\wwwroot\\resource\\files\\edit.png",
+      "PackagePath": "staticwebassets\\resource\\files\\edit.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ETicaretAPI.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ETicaretAPI.API.props",
+      "PackagePath": "build\\ETicaretAPI.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ETicaretAPI.API.props",
+      "PackagePath": "buildMultiTargeting\\ETicaretAPI.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ETicaretAPI.API.props",
+      "PackagePath": "buildTransitive\\ETicaretAPI.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
